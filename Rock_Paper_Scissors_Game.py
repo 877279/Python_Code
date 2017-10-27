@@ -26,4 +26,3 @@ def Rock_Paper_Scissors():
 		print('Make sure the you spell your weapon correctly!')
 	
 Rock_Paper_Scissors()
-
